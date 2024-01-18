@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mouseshop/landing.png
+image: img/MouseShop/landing.png
 title: "Chris's Mouse Shop"
 date: 2022
 published: true
