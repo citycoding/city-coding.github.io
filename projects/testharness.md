@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - Scripted Test Harness
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Me and a classmate developed an automatic script to test website functionality."
 ---
 
 <div class="text-center p-4">
