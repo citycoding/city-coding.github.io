@@ -14,22 +14,10 @@ summary: "My team developed a database proposal for a brick and mortar business.
   <img width="500px" src="../img/BR-Fret-Shop/slide.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+We proposed the implementation of a database system for a small, fretted instrument repair store located in Honolulu, Hawaii. This database will contain customer information such as name, city, phone, date, state, email, address, ZIP, and customer ID, as well as instrument, parts, and repair information. The implementation of this system will increase the efficiency of the business by reducing the amount of time digitizing and verifying customer transactions. This report will cover the requirements, design, and implementation of the database system.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Our database aims to address the needs of the business owners for BR Fret Shop. This database will assist in the documentation and processing of transactions between customers and employees. The proposed solution will improve the organization of business information. Currently the business relies on paper receipts as the primary method of record keeping which cannot be searched through a system. Incorporating a database system will improve the efficiency of the business while opening a road to scale up if needed in the future. Creating a database enables the business to send out digital receipts and automatically send out appointment reminders if requested. Receipts can be digitally verified through email as an alternative to a physical receipt pickup. Once the database appointment system is implemented an online appointment system can be added to reduce the number of calls taking away from the in-store customer experience. Customers will have multiple options to schedule pick up and drop off appointments from their web devices.
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more by reading the full [BR Fret Shop Proposal](https://docs.google.com/document/d/1JJdWf4Se59_D3afjWOeoqDXElxR1whDqp3yTS_tiqbM/edit?usp=sharing).
