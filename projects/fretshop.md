@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - Database Proposal
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "My team developed a database proposal for a brick and mortar business."
 ---
 
 <div class="text-center p-4">
