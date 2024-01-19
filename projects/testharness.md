@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MouseShop/landing.png
+image: img/testharness/testharness-square.png
 title: "Test Harness"
 date: 2023
 published: true
