@@ -7,7 +7,7 @@ date: 2022
 published: true
 labels:
   - Online Store
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "I created an functional mouse store to showcase server and client communication."
 ---
 
 <div class="text-center p-4">
