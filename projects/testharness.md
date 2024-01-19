@@ -66,4 +66,4 @@ function test(func, name, properties)
 
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can find out more by visiting the [Test Harness Repo](https://github.com/citycoding/ITM353_S23_repo).
