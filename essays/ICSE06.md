@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E06 Technical Essay"
+title: "Creation through Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
 published: true
