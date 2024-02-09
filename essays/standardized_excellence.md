@@ -8,7 +8,7 @@ published: true
 labels:
 
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/intellij/intellij.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/intellij/Intellij.png">
 ## IDE Introduction
 Using ESLint and IntelliJ opened my eyes to the alternative to a non-plugin standard IDE. ESLint is an interesting formation of coding standards for many people. It allows the user to adopt community rulesets or even create their coding standard for how they wish to create their projects. Currently, the rules being used are by the file supplied to us. Standards are important as they create a framework for how projects are meant to be coded. 
 
