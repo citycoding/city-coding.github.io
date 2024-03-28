@@ -8,6 +8,9 @@ labels:
   - Brainstorm Idea
 
 ---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/heart.png">
+
 ## UHM Dating App
 
 Authors: Alexander Moshir, Jaira Pader, Christopher Yamada, Cash Baker, Yu Fang Ma, Veronica 
