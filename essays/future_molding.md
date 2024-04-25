@@ -8,7 +8,7 @@ published: true
 labels:
 
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/feelingsmart/react_logo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/design_patterns.png">
 
 ### Shaping Operations
 When I started to code a few years ago, I had no concept of how to start a project. I thought there might be a single “right” way to go about coding. I still don’t know if there is an objective “right” way to create a project, but I suspect that the margins between “right” and “mostly right” are very small. These questions tie directly into concepts of design patterns and how they affect project planning, building, and execution. There are many types of design patterns from which to choose. Design patterns often focus on one part of the System Design Life Cycle (SDLC), such as issue testing, implementation, and analysis. Design patterns can also influence the documentation, communication, and coding styles of developers, depending on the design. 
