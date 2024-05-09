@@ -4,7 +4,7 @@ type: essay
 title: "Feeling SMART?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-03-12
-published: true
+published: false
 labels:
 
 ---
