@@ -4,7 +4,7 @@ type: essay
 title: "E3 Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-28
-published: true
+published: false
 labels:
 
 ---
