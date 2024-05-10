@@ -4,7 +4,7 @@ type: essay
 title: "Building within Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-21
-published: true
+published: false
 labels:
 
 ---
