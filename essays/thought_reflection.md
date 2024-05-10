@@ -8,7 +8,7 @@ published: true
 labels:
 
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/walking_unknown.jpeg">
+<img width="180px" class="rounded float-start pe-4" src="../img/walking_unknown.jpeg">
 
 I first entered the world of software engineering at the start of 2024 in ICS 314. Stepping into the world of software engineering proved to be very challenging, as I have limited experience coding. I am a business major, so taking ICS 314 was a shot in the dark. I wanted to challenge myself and get uncomfortable with my abilities to develop my transferable skills in coding. I do believe that I have learned some valuable skills that I would like to share with you. Although they may be obscure in nature, the lessons that I learned had a large impact on my thought process.
  
