@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/testharness/testharness-square.png
+image: img/toaster_eats.png
 title: "Toaster Eats"
 date: 2024
 published: true
