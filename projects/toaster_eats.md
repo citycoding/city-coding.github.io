@@ -16,7 +16,7 @@ summary: "My team (Toaster Eats) developed a website that allows UH students to 
   <img width="500px" src="../img/toaster_eats.png" class="img-thumbnail" >
 </div>
 
-This project was a collaboration between me and my classmate Eden Tran. We worked together on the ITM353 final projects to create a test harness to test the functionality of my previously created mouse store. This project was a collaborative effort to test the limits of the functionality and see what gets by that should be invalid. Automatic tests are important to save on time when expanded to a large or medium scale project. This is because time is limited when working on a project.
+This project was a collaboration between me and my classmates in ICS 314 to create a website called Toaster Eats. The goal of this project was to create a functional and practical web application for UH students to share recipes. Users are able to add recipies, search for recipies, find ingredients, and find stores for the ingredients. The project spanned a little over a month and took a collaborative effort from Toaster Eats group members to produce a fully functional website.
 
 The establishment of automatic testing eliminates the need for individual test cases on each page. Instead a standardized test can be created to test functionality. This saves precious time that can be spent on further capability expansion and project development. I learned how this can optimize the allocation of resources when working on time sensitive projects.
 
