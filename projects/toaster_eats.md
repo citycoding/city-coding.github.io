@@ -9,7 +9,7 @@ labels:
   - Final Project
   - Web Design
   - Software Engineering
-summary: "Me and a classmate developed an automatic script to test website functionality."
+summary: "My team (Toaster Eats) developed a website that allows UH students to create and share recipes while supporting local businesses."
 ---
 
 <div class="text-center p-4">
