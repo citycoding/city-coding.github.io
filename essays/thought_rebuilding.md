@@ -8,7 +8,7 @@ published: true
 labels:
 
 ---
-<img width="180px" class="rounded float-start pe-4" src="../img/walking_unknown.jpeg">
+<img width="180px" class="rounded pe-4" src="../img/walking_unknown.jpeg">
 
 ### Starting from Scratch
 I first entered the world of software engineering at the start of 2024 in ICS 314. Stepping into the world of software engineering proved to be very challenging, as I have limited experience coding. I am a business major, so taking ICS 314 was a shot in the dark. I wanted to challenge myself and get uncomfortable with my abilities to develop my transferable skills in coding. I do believe that I have learned some valuable skills that I would like to share with you. Although they may be obscure in nature, the lessons that I learned had a large impact on my thought process.
@@ -17,7 +17,7 @@ I started to use React Bootstrap a few months ago as my first introduction to a 
 
  <img width="200px" class="rounded pe-4" src="../img/cube.png">
 
- ### Divide and Conquer
+### Divide and Conquer
 When tackling a large problem, it is best to write down what your goal is and the concrete steps and progress markers you expect to hit. Agile project management is very similar to this problem-solving approach, as it utilizes many of the same steps. Agile project management breaks down the problem into iterations or steps, adapts to a changing environment or situation, and is flexible enough to improve on pre-established ideas. All of these features of agile development play perfectly into logically thought-out procedures that enable you to make a clear but unknown route to success. What I mean by this is that the winning conditions are clearly laid out, but the path to each step can be different depending on the situation at hand. 
  
 Walking the path of uncomfortable lessons yields the greatest amount of information learned. Creating and solidifying solutions to simple problems helps tackle larger problems in the future. I enjoyed learning about many different aspects of software engineering and the many ways to view, code, and practice it. Although I am not majoring in computer science, I found immense value and satisfaction in taking this course. I hope to see myself one day putting into practice the lessons I have learned on my journey through software engineering.
