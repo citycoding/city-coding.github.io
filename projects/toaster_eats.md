@@ -13,7 +13,7 @@ summary: "My team (Toaster Eats) developed a website that allows UH students to 
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/toaster_eats.png" class="img-thumbnail" >
+  <img width="700px" src="../img/toaster_eats.png" class="img-thumbnail" >
 </div>
 
 ### Project Overview
