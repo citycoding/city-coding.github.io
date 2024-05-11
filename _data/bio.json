@@ -30,15 +30,6 @@
   ],
   "education": [
     {
-      "institution": "Windward Community College, Kaneohe, HI",
-      "area": "Information and Communication Technology",
-      "studyType": "A.S.",
-      "startDate": "2020-08-23",
-      "endDate": "2021-12-17",
-      "courses": [
-      ]
-    },
-    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2024)",
       "studyType": "B.S.",
@@ -46,9 +37,31 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Windward Community College, Kaneohe, HI",
+      "area": "Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2020-08-23",
+      "endDate": "2021-12-17",
+      "courses": [
+      ]
     }
   ],
   "work": [
+    {
+      "company": "Center for Korean Studies",
+      "position": "Library Aid Assistant",
+      "website": "https://manoa.hawaii.edu/koreanstudies/",
+      "startDate": "2023-05-20",
+      "endDate": "Present",
+      "summary": "Website design and library aid",
+      "highlights": [
+        "Webpage design",
+        "Event Assistant",
+        "Library Aid"
+      ]
+    },
     {
       "company": "Agricultural Wholesale",
       "position": "Owner",
@@ -72,19 +85,6 @@
         "Identify patient files and scan in documents"
       ]
     },
-    {
-      "company": "Center for Korean Studies",
-      "position": "Library Aid Assistant",
-      "website": "https://manoa.hawaii.edu/koreanstudies/",
-      "startDate": "2023-05-20",
-      "endDate": "Present",
-      "summary": "Website design and library aid",
-      "highlights": [
-        "Webpage design",
-        "Event Assistant",
-        "Library Aid"
-      ]
-    }
   ],
   "awards": [
     {
