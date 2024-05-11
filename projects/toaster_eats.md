@@ -16,12 +16,14 @@ summary: "My team (Toaster Eats) developed a website that allows UH students to 
   <img width="500px" src="../img/toaster_eats.png" class="img-thumbnail" >
 </div>
 
-This project was a collaboration between me and my classmates in ICS 314 to create a website called Toaster Eats. The goal of this project was to create a functional and practical web application for UH students to share recipes. Users are able to add recipies, search for recipies, find ingredients, and find stores for the ingredients. The project spanned a little over a month and took a collaborative effort from Toaster Eats group members to produce a fully functional website.
+### Project Overview
+This project was a collaboration between me and my classmates in ICS 314 to create a website called Toaster Eats. The goal of this project was to create a functional and practical web application for UH students to share recipes. Users are able to add recipes, search for recipes, find ingredients, and find stores for the ingredients. The project spanned a little over a month and took a collaborative effort from Toaster Eats group members to produce a fully functional website.
 
-The establishment of automatic testing eliminates the need for individual test cases on each page. Instead a standardized test can be created to test functionality. This saves precious time that can be spent on further capability expansion and project development. I learned how this can optimize the allocation of resources when working on time sensitive projects.
+### Contribution & Experience
+I had many learning opportunities with this project and played a very active role in developing the website. Some key contributions are creating our logo, creating the initial navigation bar, deploying to Digital Ocean, enabling HTTPS, adding a favicon, creating and setting up a custom domain name, and adding all continuous integration availability tests. 
 
 
-Here is some code that illustrates how automatic script functionality was used:
+Here is some code that illustrates how continuous integration availability tests were implemented:
 
 ```cpp
 function test(func, name, properties)
