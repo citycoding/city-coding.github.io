@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/toaster_eats.png
+image: img/toaster-eats/toaster_square.png
 title: "Toaster Eats"
 date: 2024
 published: true
