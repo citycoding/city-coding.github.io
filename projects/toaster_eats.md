@@ -24,6 +24,10 @@ I had many learning opportunities with this project and played a very active rol
 
 The system development life cycle and agile development encompass many aspects of software engineering that encompass inter-group communication, simulatious development, automatic testing, UI frameworks, coding standards, databases, and deployment. All of these concepts together create a chaotic environment in the real world that is much harder in practice than in planning. The rigorous yet fulfilling classroom experiences will give me the skills to handle new problems that require complex planning and execution.
 
+<div class="text-center p-2">
+  <img width="400px" src="../img/ci-tests.png" class="img-thumbnail" >
+</div>
+
 Here is some code that illustrates how continuous integration availability tests were implemented:
 
 ```cpp
