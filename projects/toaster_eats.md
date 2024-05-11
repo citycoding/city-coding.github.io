@@ -20,54 +20,26 @@ summary: "My team (Toaster Eats) developed a website that allows UH students to 
 This project was a collaboration between me and my classmates in ICS 314 to create a website called Toaster Eats. The goal of this project was to create a functional and practical web application for UH students to share recipes. Users are able to add recipes, search for recipes, find ingredients, and find stores for the ingredients. The project spanned a little over a month and took a collaborative effort from Toaster Eats group members to produce a fully functional website.
 
 ### Contribution & Experience
-I had many learning opportunities with this project and played a very active role in developing the website. Some key contributions are creating our logo, creating the initial navigation bar, deploying to Digital Ocean, enabling HTTPS, adding a favicon, creating and setting up a custom domain name, and adding all continuous integration availability tests. 
+I had many learning opportunities with this project and played a very active role in developing the website. Some of my key contributions are creating our logo, creating the initial navigation bar, deploying to Digital Ocean, enabling HTTPS, adding a favicon, creating and setting up a custom domain name, and adding all continuous integration availability tests. 
 
 
 Here is some code that illustrates how continuous integration availability tests were implemented:
 
 ```cpp
-function test(func, name, properties)
-    {
-        var test_name = name ? name : next_default_name();
-        properties = properties ? properties : {};
-        var test_obj = new Test(test_name, properties);
-        test_obj.step(func);
-        if (test_obj.status === test_obj.NOTRUN) {
-            test_obj.done();
-        }
-    }
 
-    function async_test(func, name, properties)
-    {
-        if (typeof func !== "function") {
-            properties = name;
-            name = func;
-            func = null;
-        }
-        var test_name = name ? name : next_default_name();
-        properties = properties ? properties : {};
-        var test_obj = new Test(test_name, properties);
-        if (func) {
-            test_obj.step(func, test_obj, test_obj);
-        }
-        return test_obj;
-    }
+test('Test: Recipes Page is Displayed', async (testController) => {
+  await navBar.gotoSignInPage(testController);
+  await signinPage.signin(testController, credentials.username, credentials.password);
+  await navBar.gotoRecipesPage(testController);
+  await recipesPage.isDisplayed(testController);
+});
 
-    function setup(func_or_properties, maybe_properties)
-    {
-        var func = null;
-        var properties = {};
-        if (arguments.length === 2) {
-            func = func_or_properties;
-            properties = maybe_properties;
-        } else if (func_or_properties instanceof Function){
-            func = func_or_properties;
-        } else {
-            properties = func_or_properties;
-        }
-        tests.setup(func, properties);
-        output.setup(properties);
-    }
+test('Test: Add Recipes Page is Displayed', async (testController) => {
+  await navBar.gotoSignInPage(testController);
+  await signinPage.signin(testController, credentials.username, credentials.password);
+  await navBar.gotoAddRecipesPage(testController);
+  await addRecipesPage.isDisplayed(testController);
+});
 
 ```
 
