@@ -6,12 +6,14 @@ title: "Toaster Eats"
 date: 2024
 published: true
 labels:
-  - Scripted Test Harness
+  - Final Project
+  - Web Design
+  - Software Engineering
 summary: "Me and a classmate developed an automatic script to test website functionality."
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/MouseShop/landing.png" class="img-thumbnail" >
+  <img width="500px" src="../img/toaster_eats.png" class="img-thumbnail" >
 </div>
 
 This project was a collaboration between me and my classmate Eden Tran. We worked together on the ITM353 final projects to create a test harness to test the functionality of my previously created mouse store. This project was a collaborative effort to test the limits of the functionality and see what gets by that should be invalid. Automatic tests are important to save on time when expanded to a large or medium scale project. This is because time is limited when working on a project.
