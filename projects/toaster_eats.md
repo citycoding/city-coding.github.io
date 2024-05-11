@@ -69,4 +69,4 @@ function test(func, name, properties)
 
 ```
 
-You can find out more by visiting the [Test Harness Repo](https://github.com/citycoding/ITM353_S23_repo).
+You can find out more by visiting the [Toaster Eats Organization](https://github.com/Toaster-Eats).
